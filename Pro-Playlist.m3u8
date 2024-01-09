@@ -517,7 +517,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8
 
 
 #Toffe Any Player
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee Any Player ,Sony TEN 1 HD
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Toffee Any Player ,Sony TEN 1 H
 https://bdsatv24.000webhostapp.com/api/Toffe.php?id=sony_ten1_hd
 
 
