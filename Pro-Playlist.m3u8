@@ -1140,17 +1140,21 @@ https://drive.google.com/uc?export=download&id=1l9fH2pV1_0igN5kBxqMTmr0fq0LRnM0_
 
 #EXTINF:-1 group-title="BPL" tvg-chno="" tvg-id="1" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg", BPL T-Sports
 #EXTVLCOPT:http-user-agent=Tsports (Linux; AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705698792:KeyName=tsports-ed25519-01:Signature=x1SNcukFXfJb36Zw3bbpUdJEABLsHPnmJwXmmqpDWMnQaAOBwp-yNu3rHMtRK6q-wqC6IfEcUztqUnUwM0WpCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705785101:KeyName=tsports-ed25519-01:Signature=hlapgKuhr7egVTvZ6snpE-lIkMFza3TmE3gL3_eiYJYPDtCyVWCiI755daiSYhl3UZ2YcZxCGvNS_0UGY184AA"}
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 group-title="BPL" tvg-chno="" tvg-id="1" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg", BPL T-Sports 2
 #EXTVLCOPT:http-user-agent=Tsports (Linux; AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705698792:KeyName=tsports-ed25519-01:Signature=x1SNcukFXfJb36Zw3bbpUdJEABLsHPnmJwXmmqpDWMnQaAOBwp-yNu3rHMtRK6q-wqC6IfEcUztqUnUwM0WpCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705785101:KeyName=tsports-ed25519-01:Signature=hlapgKuhr7egVTvZ6snpE-lIkMFza3TmE3gL3_eiYJYPDtCyVWCiI755daiSYhl3UZ2YcZxCGvNS_0UGY184AA"}
 https://live-cdn.tsports.com/live-01/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png" tvg-chno="27" group-title="Ayna OTT",T Sports HD
+#EXTINF:-1 tvg-id="27" tvg-name="T Sports HD" tvg-country="IN" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg" tvg-chno="27" group-title="BPL",T Sports HD
 https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="28" group-title="Ayna OTT",T Sports
+#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg" tvg-chno="28" group-title="BPL",T Sports
 https://cdn.retosprime.com/ayna.php?id=28&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="28" group-title="Ayna OTT",T Sports
+#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg" tvg-chno="28" group-title="BPL",GTV
+https://cdn.retosprime.com/ayna.php?id=18&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg" tvg-chno="28" group-title="BPL",GTV
+https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg" tvg-chno="28" group-title="BPL",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  1
