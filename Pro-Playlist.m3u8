@@ -1157,23 +1157,44 @@ https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg" tvg-chno="28" group-title="BPL",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 
+
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  1
-https://od.lk/s/ODRfNzIxOTE5NjJf/Discovery.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  2
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  3
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary  2
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 4
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 3
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 5
-https://mhdtvplay.net/delta/discovery/api/Discovery_Hindi.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary 4
+https://mhdtvworld.co.in/delta/discovery/api/Discovery_Hindi.m3u8
 
-#MOVIE
 
-#EXTINF: -1 tvg-name="Osomoy অসময়" tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Movie's", Osomoy অসময়
-https://newfile.shahidabegum3223.workers.dev/0:/0s0m0y%202024%20Bengali%20RetosPrime%20720p%20WEB-DL%20x264.mkv
-#EXTINF: -1 tvg-name="Hubba (2024)" tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Movie's", Hubba (2024)
-https://transload:transload@gcp.apranet.eu.org/files/%5BEpickmovies.com%5D_Hubba_%282024%29_Bengali_720p_WEb-DL.mp4
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="500" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title=" Kidz by @bdsajib ",Nickelodeon
+https://cdn.retosprime.com/ayna.php?id=126&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="59" tvg-name="Nick Junior" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300" tvg-chno="1" group-title="BKidz by @bdsajib",Nick Junior 
+https://bongohub.pw/bioscope.php?cc=nick-junior
+#EXTINF:-1 tvg-id="55" tvg-name="Nickelodeon" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png?width=300" tvg-chno="1" group-title="Kidz by @bdsajib",Nickelodeon
+https://bongohub.pw/bioscope.php?cc=nickelodeon
+#EXTINF:-1 group-title="Kidz by @bdsajib" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png", Nick
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1706521871:KeyName=prod_linear:Signature=yAaYb-txSzqSrGBOTGQhmAYSUzhdauqahVkFHjPYY-XqclBPaelGa9HBR1uDNC_N4B4PL-59Vv5mj1Pkbdr5BA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8
+#EXTINF:-1 group-title="Kidz by @bdsajib"tvg-logo="https://i.pinimg.com/736x/4b/0f/24/4b0f247cdd7613bc11a7c638d2d4ef72.jpg",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-360p.m3u8
+#EXTINF:-1 group-title="Kidz by @bdsajib" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/01/Pogo-2-2-2.png",Pogo
+https://s.id/2167f
+
+
+
+
+
+
+
 
 
 
