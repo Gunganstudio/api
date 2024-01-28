@@ -1,4 +1,6 @@
 #EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="1" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
+#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="1" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png", Zee Bangla
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1706623142:KeyName=prod_linear:Signature=FhEGX8-53ITT5uTanbeIgEzU6b57cK1LoPCHDYEjg-rAui9Ry1qDQ7v9b3CmbL2tHr53zlflHCb_aTCmNOcRCg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
@@ -449,8 +451,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/comedy_central_hd/playlist.m3u8
 
 
 #BONGO
-
-
+#EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bongo",Somoy TV
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bongo",Somoy TV
 https://api.bongohub.pw/bongo.php?cc=somoy-tv
 #EXTINF:-1 tvg-id="8" tvg-name="Movie Bangla" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/16f10c2a-e4c3-4214-bad5-8dc791343cc4/7bd1f69c-df79-4c98-a82a-670835461c60.png?width=400" tvg-chno="1" group-title="Bongo", Movie Bangla
@@ -462,7 +464,7 @@ https://api.bongohub.pw/bongo.php?cc=dbc-news
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Bangla" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/88b130c8-0256-4247-97fe-11ec72132f15/e83a109a-b050-4ff9-917d-661be1c3d82b.png?width=300" tvg-chno="1" group-title="Bongo",Zee Bangla
 https://api.bongohub.pw/bongo.php?cc=zee-bangla
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Bangla Cinema" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2e82d1f3-2483-4a05-ac7c-4fe78b2d7f0d/6e91a298-8191-4997-aabc-b31406073340.png?width=400" tvg-chno="1" group-title="Bongo",Zee Bangla Cinema 
-https://bdsajib112.000webhostapp.com/api/bioscope.php?id=zee-classic
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="8" tvg-name="& Pictures HD" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/1c7e5a1d-91d1-4184-a112-b91043da01b3/0e97fe3d-78a2-4967-a32c-e2f4876cc856.png?width=400" tvg-chno="1" group-title="Bongo",& Pictures HD
 https://api.bongohub.pw/bongo.php?cc=pictures-hd
 #EXTINF:-1 tvg-id="8" tvg-name="9x JALWA" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/43440b2a-0045-41a5-9ab6-76c861cec682/0f8e8d3e-cb23-419b-8b82-c15f9c5c9a81.png?width=400" tvg-chno="1" group-title="Bongo",9x JALWA
@@ -484,6 +486,8 @@ https://api.bongohub.pw/bongo.php?cc=tv-hd
 
 
 #bioscope
+#EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",Somoy TV
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="Somoy TV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84f1f9b0-d134-497e-b1bf-53058d4e0a85/326ced06-9a22-41c4-b70e-1a77024b3c95.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",Somoy TV
 https://bongohub.pw/bioscope.php?cc=somoy-tv
 #EXTINF:-1 tvg-id="2" tvg-name="Sony Sports Ten 1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/f329b795-ec26-4721-85b6-8c569a9cbf2d/ea6c0a48-2348-456e-8ab2-fd540e6ee5a6.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",Sony Sports Ten 1
@@ -611,7 +615,8 @@ https://bongohub.pw/bioscope.php?cc=sony-yay-live
 
 
 #Aayna 
-
+#EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="Ayna OTT",Sony Max
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="BTV National" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png" tvg-chno="1" group-title="Ayna OTT",BTV National
 https://cdn.retosprime.com/ayna.php?id=1&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="2" tvg-name="BTV World" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/da2833ba-8861-4fb7-a01c-ab5945004610_180x180_e70b9dea-eca2-406e-a8ca-c7620b472095.png" tvg-chno="2" group-title="Ayna OTT",BTV World
@@ -917,7 +922,7 @@ https://cdn.retosprime.com/ayna.php?id=152&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="153" tvg-name="Goldmines" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5e9e0f00-2bea-482c-99fa-6aedffea01b4_180x180_Goldmines.jpg" tvg-chno="153" group-title="Ayna OTT",Goldmines
 https://cdn.retosprime.com/ayna.php?id=153&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="154" tvg-name="Goldmines Bollywood" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d3db61b-9d33-47ed-b273-7bb235f14431_180x180_Goldmines_Bollywood.jpg" tvg-chno="154" group-title="Ayna OTT",Goldmines Bollywood
-https://cdn.retosprime.com/ayna.php?id=154&e=.m3u8|User-Agent=bdsajib
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="155" tvg-name="Goldmines Movies" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/4f1364dc-dbb0-47df-9a43-3f316b371053_180x180_GoldminesMovies.jpg" tvg-chno="155" group-title="Ayna OTT",Goldmines Movies
 https://cdn.retosprime.com/ayna.php?id=155&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="156" tvg-name="Khushboo" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfb8c366-8efc-42f6-9901-df0fd0884736_180x180_Khushboo.jpg" tvg-chno="156" group-title="Ayna OTT",Khushboo
@@ -1063,11 +1068,11 @@ https://cdn.retosprime.com/ayna.php?id=225&e=.m3u8|User-Agent=bdsajib
 
 
 #EXTINF:-1 tvg-id="1" tvg-name="BDSAJIB" tvg-country="IN" tvg-logo="https://telegra.ph/file/cc92c84e58265bd795a61.png" tvg-chno="1" group-title="ABOUT ME", BDSATV
-https://drive.google.com/uc?export=download&id=1l9fH2pV1_0igN5kBxqMTmr0fq0LRnM0_
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 
 
-
-
+#EXTINF:-1 group-title="BPL" tvg-chno="" tvg-id="1" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg", BPL T-Sports
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 group-title="BPL" tvg-chno="" tvg-id="1" tvg-logo="https://i.ibb.co/TWJcC2s/images-80.jpg", BPL T-Sports
 #EXTVLCOPT:http-user-agent=Tsports (Linux; AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1705785101:KeyName=tsports-ed25519-01:Signature=hlapgKuhr7egVTvZ6snpE-lIkMFza3TmE3gL3_eiYJYPDtCyVWCiI755daiSYhl3UZ2YcZxCGvNS_0UGY184AA"}
@@ -1179,11 +1184,11 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_india_id_sd/playlist.m3u
 
 
 
-
-
+#EXTINF:-1 tvg-id="500" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title=" Kidz by @bdsajib ",Nickelodeon
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="500" tvg-name="Nickelodeon" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/795d60ef-4f7a-4373-8aa0-afa3048f371e_180x180_Nick.png" tvg-chno="126" group-title=" Kidz by @bdsajib ",Nickelodeon
 https://cdn.retosprime.com/ayna.php?id=126&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="59" tvg-name="Nick Junior" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300" tvg-chno="1" group-title="BKidz by @bdsajib",Nick Junior 
+#EXTINF:-1 tvg-id="59" tvg-name="Nick Junior" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/565f8459-678d-4495-9aad-364bdc16dc41/01ed5f96-1802-4e11-9335-81eb30f72740.png?width=300" tvg-chno="1" group-title="Kidz by @bdsajib",Nick Junior 
 https://bongohub.pw/bioscope.php?cc=nick-junior
 #EXTINF:-1 tvg-id="55" tvg-name="Nickelodeon" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3a980e48-4495-407e-b422-ad7633bae4dd/ea443332-ed92-49c3-8221-c1c86b05f13f.png?width=300" tvg-chno="1" group-title="Kidz by @bdsajib",Nickelodeon
 https://bongohub.pw/bioscope.php?cc=nickelodeon
@@ -1229,7 +1234,7 @@ https://bongohub.pw/Sony.php?id=1000119186&e=.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="Sony Ten 3" tvg-country="IN" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" tvg-chno="85" group-title="SonyLiv By @bdsajib",Sony Ten 5
 https://bongohub.pw/Sony.php?id=1000009275&e=.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Sony Pix" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/27cc1d7d-db82-480c-82b2-8d033bcbe26f_180x180_sony-pix.jpg" tvg-chno="89" group-title="SonyLiv By @bdsajib",Sony Pix
-https://bongohub.pw/Sony.php?id=1000009258&e=.m3u8
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 group-title="SonyLiv By @bdsajib" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png", SONY BBC EARTH HD
 https://bongohub.pw/Sony.php?id=1000009252&e=.m3u8
 #EXTINF:-1 tvg-id="86" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5aff8a6a-d664-4292-b4e8-8319e42f77a6_180x180_sony-8.jpg" tvg-chno="86" group-title="SonyLiv By @bdsajib",Sony Aath
@@ -1248,3 +1253,14 @@ https://bongohub.pw/Sony.php?id=1000009273&e=.m3u8
 https://bongohub.pw/Sony.php?id=1000001971&e=.m3u8
 #EXTINF:-1 group-title="SonyLiv By @bdsajib" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png", SONY ENTERTAINMENT TELEVISION
 https://bongohub.pw/Sony.php?id=1000009246&e=.m3u8
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-name="" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Documentary", Discovary
+https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
+
