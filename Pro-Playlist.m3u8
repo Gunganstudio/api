@@ -400,26 +400,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/rt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/trtworld/playlist.m3u8
-#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png", ZOOM
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zoom_tv/playlist.m3u8
 #EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png", B4U Music
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4umusic/playlist.m3u8
-#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png", MTV Beats HD
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/mtv_beats_hd/playlist.m3u8
-#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png", MTV India
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/mtv/playlist.m3u8
-#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png", Zing
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
 #EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2433/logo/240x240/mobile_logo_609993001655891894.png", VH1 HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
@@ -477,8 +461,6 @@ https://api.bongohub.pw/bongo.php?cc=zee-bollywood
 https://api.bongohub.pw/bongo.php?cc=zee-anmol
 #EXTINF:-1 tvg-id="8" tvg-name="Zee Action" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/8c8f27da-ca34-4e9a-921e-a28fb03b8d41.png?width=400" tvg-chno="1" group-title="Bongo", Zee Action
 https://api.bongohub.pw/bongo.php?cc=zee-action
-#EXTINF:-1 tvg-id="8" tvg-name="Zing" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png?width=400" tvg-chno="1" group-title="Bongo", Zing
-https://api.bongohub.pw/bongo.php?cc=zing
 #EXTINF:-1 tvg-id="8" tvg-name="Zee TV HD" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/7ff515b0-8ac5-4fe4-853b-ebbc5cc5f947/430ba6a7-1018-47d5-a6eb-b1335e6aa6bd.png?width=400" tvg-chno="1" group-title="Bongo", Zee TV HD
 https://api.bongohub.pw/bongo.php?cc=zee-tv-hd
 #EXTINF:-1 tvg-id="8" tvg-name="& TV HD" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/56b881f1-66b7-4621-a681-2856824041e8/0e29641a-658a-4a87-b9b6-58cdbb1fef75.png?width=400" tvg-chno="1" group-title="Bongo", & TV HD
@@ -602,12 +584,8 @@ https://bongohub.pw/bioscope.php?cc=colors-rishtey
 https://bongohub.pw/bioscope.php?cc=nick-junior
 #EXTINF:-1 tvg-id="60" tvg-name="Zee TV HD" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/e76ee8d5-571a-4bd1-b72b-e09a3e986160/fae71bed-37a1-4b94-8382-d103f429b6b7.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",Zee TV HD
 https://bongohub.pw/bioscope.php?cc=zee-tv-hd
-#EXTINF:-1 tvg-id="61" tvg-name="MTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",MTV
-https://bongohub.pw/bioscope.php?cc=mtv
 #EXTINF:-1 tvg-id="62" tvg-name="Colors Infinity" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/20921d50-bc3d-4d99-9357-78320a582e40/9085e9bd-b79a-47d7-9d24-7fb85a741968.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",Colors Infinity
 https://bongohub.pw/bioscope.php?cc=colors-infinity
-#EXTINF:-1 tvg-id="63" tvg-name="MTV Beats" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",MTV Beats 
-https://bongohub.pw/bioscope.php?cc=mtv-beats
 #EXTINF:-1 tvg-id="64" tvg-name="VH1" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/a6fa91ea-b555-48b5-b547-8fb1495b6708/2ab4a1f0-a1fd-4e7a-ba71-34f7967805fa.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",VH1
 https://bongohub.pw/bioscope.php?cc=vh1
 #EXTINF:-1 tvg-id="65" tvg-name="Sony Yay" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/d20356ee-1ca5-4792-94ec-bb900504437b/bf8b3f46-c810-420f-a90d-9f6834c36b3c.png?width=300" tvg-chno="1" group-title="Bioscope by BDSAJIB",Sony Yay
@@ -1322,6 +1300,46 @@ MOVIE
 http://172.16.50.14/SAM-FTP-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282015%29/Temper%20%282015%29%201080p%20%5BDual%20Audio%5D/Temper%20%282015%29%20UNCUT%201080p%20WEBRip%20x264%20%5BDual%20Audio%5D%5BHindi%20DD2.0%2BTelugu%202.0%5D%20-DMV.mkv
 #EXTINF:-1 group-title="MOVIE" tvg-chno="" tvg-id="" tvg-logo="http://172.16.50.14/SAM-FTP-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282022%29/Valimai%20%282022%29%201080p%20%28Hindi%20Dubbed%29/a_AL_.jpg",Temper
 http://172.16.50.14/SAM-FTP-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282022%29/Valimai%20%282022%29%201080p%20%28Hindi%20Dubbed%29/Valimai%20%282022%29%20Hindi%20Dubbed%201080p%20WEBRip%20x264%20AAC%205.1%20ESub%20-HDHub.mkv
+
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://w7.pngwing.com/pngs/910/1/png-transparent-9xm-music-television-television-channel-betel-miscellaneous-television-blue.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="9x JALWA" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/43440b2a-0045-41a5-9ab6-76c861cec682/0f8e8d3e-cb23-419b-8b82-c15f9c5c9a81.png?width=400" tvg-chno="1" group-title="Music",9x JALWA
+https://bdsajib112.000webhostapp.com/api/bioscope.php?id=9x-jalwa-1
+#EXTINF:-1  tvg-logo="https://bestmediainfo.com/uploads/2014/06/9X-tashan-top.jpg" group-title="Music", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="Music",Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1 group-title="Music" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png", ZOOM Toffe
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zoom_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Zing" tvg-country="BAN" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/e8ffd2a5-80fe-480b-833d-173da7830887/3b6e8661-1f9b-4e4e-9189-e4d7e77d033e.png?width=400" tvg-chno="1" group-title="Music", Zing
+https://api.bongohub.pw/bongo.php?cc=zing
+#EXTINF:-1 group-title="Music" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png", Zing
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="MTV Beats" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300" tvg-chno="1" group-title="Music",MTV Beats 
+https://bongohub.pw/bioscope.php?cc=mtv-beats
+#EXTINF:-1 tvg-id="61" tvg-name="MTV" tvg-country="BAN" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png?width=300" tvg-chno="1" group-title="Music",MTV
+https://bongohub.pw/bioscope.php?cc=mtv
+#EXTINF:-1 group-title="Music" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png", MTV Beats HD
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/mtv_beats_hd/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png", MTV India
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707385813:KeyName=prod_linear:Signature=h5MdWJeO5Adjd5ZzGxKplUznZIS4708peBLhc0gjzypGqTDnRVWBptpwdfmdTzj8ztFWq3x3Qs7nMmZ1RAJsAw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/mtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://okteve.com/wp-content/uploads/media/088b80e90a78edd8b0fe2cd720ef3908.jpeg" group-title="Music", 9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
+
+
+
+
+
 
 
 
