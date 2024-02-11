@@ -1069,43 +1069,43 @@ https://api.bongohub.pw/playlist/bongo.php?id=tv-hd|User-Agent=bdsajib
 #EXTINF:-1 group-title="BDSAJIB-SONYLIV" tvg-chno="" tvg-id="1" tvg-logo="https://tv.bongohub.pw/wp-content/uploads/2024/02/ONGOHUB.PW_.png", Playlist By BDSATV
 https://bongohub.pw/wp-content/uploads/2024/01/bdsajib.mp4
 #EXTINF:-1 tvg-id="sony1000009246"" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="BDSAJIB-SONYLIV",SONY HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009246
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009246|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009248"" tvg-logo="https://d30ny7ijak9wq4.cloudfront.net/s3fs-public/images/story/2016/09/01/Sony%20SAB%20HD%20Logo-01.jpgg" group-title="BDSAJIB-SONYLIV",SAB HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009248
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009248|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009273"" tvg-logo="https://pbs.twimg.com/profile_images/497440939388858368/73qSmbwD_400x400.png" group-title="BDSAJIB-SONYLIV",SONY PAL
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009273
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009273|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009247"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="BDSAJIB-SONYLIV",SONY MAX HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009247
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009247|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009249"" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="BDSAJIB-SONYLIV",SONY MAX
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009249
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009249|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009252"" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="BDSAJIB-SONYLIV", BBC Earth
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009252
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009252|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009253"" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/074ede35-9396-4470-a0cd-e350f5e351f3_180x180_SonyWah.jpg" group-title="BDSAJIB-SONYLIV",SONY WAH
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009253
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009253|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000044878"" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="BDSAJIB-SONYLIV",SONY MAX2
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000044878
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000044878|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000001971"" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/975755cc-0c8a-4617-a965-85b1df745445_180x180_SonyYay.jpg" group-title="BDSAJIB-SONYLIV",SONY YAY
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000001971
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000001971|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009281"" tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fsony_sixhd.jpg" group-title="BDSAJIB-SONYLIV",SONY SIX HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009281.6
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009281.6|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009276"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest?cb=20190322143710" group-title="BDSAJIB-SONYLIV",SONY TEN 1 HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009276
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009276|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009277"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest?cb=20190322144000" group-title="BDSAJIB-SONYLIV",SONY TEN 2 HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009277
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009277|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="https://api.bongohub.pw/playlist/sonyliv.php?id=1000009278"" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/3mya9a1643398896.png" group-title="BDSAJIB-SONYLIV",SONY TEN 3 HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009278
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009278|User-Agent=bdsajib
 #EXTINF: -1 tvg-id="sony1000119186"" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png/revision/latest?cb=20221025090401" group-title="BDSAJIB-SONYLIV",SONY TEN 4 HD
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000119186
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000119186|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009281"" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/mzhizo1643398789.png" group-title="BDSAJIB-SONYLIV",SONY SIX
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009281
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009281|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009280"" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="BDSAJIB-SONYLIV",SONY TEN 1
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009280
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009280|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009279"" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="BDSAJIB-SONYLIV",SONY TEN 2
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009279
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009279|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="sony1000009283"" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="BDSAJIB-SONYLIV",SONY TEN 3
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000009283
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000009283|User-Agent=bdsajib
 #EXTINF: -1 tvg-id="sony1000119187"" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="BDSAJIB-SONYLIV",SONY TEN 4
-https://api.bongohub.pw/playlist/sonyliv.php?id=1000119187
+https://api.bongohub.pw/playlist/sonyliv.php?id=1000119187|User-Agent=bdsajib
 
 
 #Zee5
